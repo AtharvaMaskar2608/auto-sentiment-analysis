@@ -19,7 +19,7 @@ def preprocess_speaker_transcript(transcript: str, agentName: str) -> str:
         - processed_transcript (str): Processed trancript will be in the following format, AgentName & Customer  
     """
 
-    system_prompt = f"You are a transcript which is in the following format: <Speaker A>: <Text> <Speaker B>: <Text>. From the transcript you have to identify who the agent is. Name of the company agent is: {agentName}. Understand the context and do not assume anything from any speaker, purely work on the transcript. Return `Speaker A` if you think speaker A is the agent, or return `Speaker B` if you think the speaker B is the agent. Strictly reply in `Speaker A` or `Speaker B` only always without any explanation or additional text."
+    system_prompt = f"You are given a transcript which is in the following format: <Speaker A>: <Text> <Speaker B>: <Text>. From the transcript you have to identify who the agent is. Name of agent is: {agentName}. Understand the context and do not assume anything from any speaker, purely work on the transcript. Return `Speaker A` if you think speaker A is the agent, or return `Speaker B` if you think the speaker B is the agent. Strictly reply in `Speaker A` or `Speaker B` only always without any explanation or additional text."
 
     user_prompt = f"For the given transcript: {transcript}, return `Speaker A` if you think Speaker A is the agent and Speaker B is the customer. Return `Speaker B` if you think speaker B is the agent and the Speaker A is the customer."
 
