@@ -1,5 +1,6 @@
 import requests
-
+import os
+AUDIO_BASE_FOLDER_PATH = "/home/choice/Desktop/sentiment-analysis/data/call_recording/"
 def fetch_audio_files(audio_file_url: str) -> True:
     """
     Description:
@@ -17,13 +18,18 @@ def fetch_audio_files(audio_file_url: str) -> True:
 
     # 2. Performing fetch request 
     url = audio_file_url
-    file_name = f"{audio_id}.mp3" 
+
+    # Ensure the folder exists; create if it doesn't
+    os.makedirs(AUDIO_BASE_FOLDER_PATH, exist_ok=True)
+
+    file_name = f"{AUDIO_BASE_FOLDER_PATH}{audio_id}.mp3" 
 
     try:
         response = requests.get(url)
 
         if response.status_code == 200:
-            with open(audio_id, 'wb') as audioFile:
+            file_path = os.path.join(AUDIO_BASE_FOLDER_PATH, file_name)
+            with open(file_path, 'wb') as audioFile:
                 audioFile.write(response.content)
             return True
         else:
