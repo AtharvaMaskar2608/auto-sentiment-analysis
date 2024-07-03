@@ -1,0 +1,132 @@
+Audio Urls,Sr. No.,Caller Name,Date,Ticket ID,Client ID,Type of Query,Greetings,understanding/verification language,Empathy talking,Tagging/ client ID,further assistance/Closure,Total,Remark
+https://konnect.knowlarity.com/konnect/api/v1/786824/fc8cb51d-0fbf-42ec-a41e-a24e3fdc8f05,1,Deeksha,15/06/2024,3625616,P200052,login-guidance,1,3,2,1,2,9,just guided to client how to reset password or create new password
+https://konnect.knowlarity.com/konnect/api/v1/786824/4afa1618-5cbd-4ba4-9731-f43814386c28,2,sadaf,15/06/2024,3625219,R01592,login-guidance,1,3,2,1,2,9,
+https://konnect.knowlarity.com/konnect/api/v1/786824/53501fef-ef8b-4a08-b171-bcd7846ea639,3,abhishek,15/06/2024,3633028,X176289,order-magin,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/65d16e76-d3a1-44a7-9d92-748825979d9f,4,abhishek,15/06/2024,3633779,PXW087,corporate action-RE,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/caa87abe-b916-4a20-952c-2b9e4643b539,5,Aman,15/06/2024,3635093,X172496,brokerage,1,1,2,2,2,8,"more clear information can be given here, like you said brokerage get deducted seperatly but actually it is only per lot and there is no extra broerage, too much time taken to resolved minimise talk time on call"
+https://konnect.knowlarity.com/konnect/api/v1/786824/2c14ebd2-456c-43ce-b386-5e8566e6415e,6,Aman,15/06/2024,3635196,7979081978,ucc-under process,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/a584f6c1-0f99-4ca1-8d0c-8600730a4eaa,7,Vidhi,15/06/2024,3630678,B22227,order-trade,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/78ef3f0f-3d51-45ae-b1d6-b0d68002fcec,8,Vidhi,15/06/2024,3634490,X161301,order-magin,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/0917909e-2192-48e9-8bd9-c6c5e5621546,9,sadaf,15/06/2024,3637308,X169074,order,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/3ebf0da3-8930-4d66-91e4-5971d6fc4258,10,Deeksha,15/06/2024,3634229,SME1107,order,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/60289652-4108-4275-b6a2-0c44c394cc15,11,sadaf,15/06/2024,3654590,DBG1015,order,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/796901/95e47c98-e962-408d-86b4-eb18788673ee,12,Aman,15/06/2024,3654466,QEV0205,order,1,1,2,2,2,8,very long call ( 13 min ) try to finish call in 3-5 minutes
+https://konnect.knowlarity.com/konnect/api/v1/786824/68f216ac-6f68-4961-bb85-22bca5893610,13,Aman,15/06/2024,3654152,IL10506,order,1,1,2,2,2,8,"very long call ( 17 min ) on this type of call you need to connect with client within 2-3 min ( here call hold for 13 min continuously ), If there was same month expiry call no need to check with RMS it is already informed in training"
+https://konnect.knowlarity.com/konnect/api/v1/786824/e93367a5-37dd-47bb-bc42-d757d2b81970,14,Aman,15/06/2024,3653886,X180249,order,1,1,2,2,2,8,"you should be little more clear about profit/loss adjustment it get adjusted in bill only for ledger, in P&L same will reflect with exact amount as per company loss & profit"
+https://konnect.knowlarity.com/konnect/api/v1/786824/40b800ec-75d1-4705-8fb4-36001cb3cc41,15,sadaf,15/06/2024,3653779,QKS0168,order-margin,1,1,2,2,2,8,client receive link to pledge his share he has to pledge his quantity with CDSL number it is not only approval
+https://konnect.knowlarity.com/konnect/api/v1/786824/c64e0cf9-d175-4a46-9df0-4fb5c7951a51,16,Vidhi,15/06/2024,3652452,X169934,order- auction,0,0,0,0,0,0,here client had short position and there was circuit on that share so you should inform him about auction of that share in this scenario
+https://konnect.knowlarity.com/konnect/api/v1/786824/a423080a-fe8b-45c8-9083-940ece25ced8,17,sadaf,15/06/2024,3652116,N02889,order,1,1,2,2,2,8,for POA deactivation client no need to send hard copy he can mail from his registered email ID
+https://konnect.knowlarity.com/konnect/api/v1/786824/46da1db3-015d-4a7f-b112-0cc7bc0909d9,25,Manisha,17/06/2024,3656327,KEY016,closure,1,1,2,2,2,8,"in offline closure request first you to check in closure sheet if courier have not received then only ask for details on mail , be polite to client don't be rude"
+https://konnect.knowlarity.com/konnect/api/v1/786824/64d175f3-8aa4-4cfd-b824-e59948d5ea15,29,Manisha,17/06/2024,3656181,X181304,ucc,0,0,0,0,0,0,call not completed call back not done
+https://konnect.knowlarity.com/konnect/api/v1/786824/0287c820-5a15-4a59-b8de-783df75b49a0,30,Manisha,17/06/2024,3656165,PKZPS5825R,onboarding,0,0,0,0,0,0,call is empty
+https://konnect.knowlarity.com/konnect/api/v1/786824/67b216bf-33c9-4fc1-b9c9-93b65fca9cdd,32,Manisha,17/06/2024,3656084,OF1927,modification-nominee,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/f5e28020-6524-4a42-8061-ea27e94eb80b,33,Manisha,17/06/2024,3655925,,report-cml,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/a2823a6e-9c82-45d9-8602-9fb7ce6f411e,34,Manisha,17/06/2024,3655882,IL10871,ucc,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/0bf9ada6-0271-4683-bdc7-623beaf2d247,35,Manisha,17/06/2024,3655816,FUL0199,RM details,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/e1939615-5f1c-4254-8fee-1c2069382fb9,36,Manisha,17/06/2024,3655740,QIP0104,report,0,0,0,0,0,0,"why you are guiding to mail for report generation, we have given provision to generate mail"
+https://konnect.knowlarity.com/konnect/api/v1/786824/f39bd0bb-b708-4083-82a8-7c54178fbeae,37,Ambika,18/06/2024,3661245,IWY019,account query,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/eaec7ac3-9d08-407f-8f60-00122c07ae1b,38,Ambika,18/06/2024,3661074,9821678916,account opening,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/23631c4f-1464-41ae-b19e-ccfbe72fc597,39,Ambika,18/06/2024,3660830,MCA079,account query,0,0,0,0,0,0,It is offline process you should inform this on call
+https://konnect.knowlarity.com/konnect/api/v1/786824/bc5373af-1028-456c-84bd-c82d08e6fc1d,40,Ambika,18/06/2024,3660673,QDY0075,UT,0,0,0,0,0,0,"This is UT case and for UT case you should never take direct complaint of client because he had shared his details with RM so first you should deny taking complaint, only if client is not listening you should ask for complaint with SS and proof"
+https://konnect.knowlarity.com/konnect/api/v1/786824/f1e8e71f-ffa8-4a9a-9917-603c353fa2f7,41,Ambika,18/06/2024,3660521,8448929631,algo,0,0,0,0,0,0,"For algo you need to give no of algo department or you can create ticket for them , no need to give no of senior person"
+https://konnect.knowlarity.com/konnect/api/v1/786824/141411eb-bc3a-4ceb-b4c4-34b479ac0f14,42,Ambika,18/06/2024,3660350,OF002714,closure,0,0,0,0,0,0,call disconnected call back not done
+https://konnect.knowlarity.com/konnect/api/v1/786824/590de337-22ee-453e-b70d-54cd7b897346,43,Ambika,18/06/2024,3659470,8813912201,login,0,0,0,0,0,0,call disconnected call back not done
+https://konnect.knowlarity.com/konnect/api/v1/786824/6af1776a-3886-4880-9733-aa61abae475a,44,Ambika,18/06/2024,3659406,N02110,login,0,0,0,0,0,0,where login guidance given on this call ??? Or any solution
+https://konnect.knowlarity.com/konnect/api/v1/786824/d6adf372-a435-423f-ab88-7443f1a019ce,45,Manisha,18/06/2024,3659437,N02110,login,0,0,0,0,0,0,"where login guidance given on this call ??? Or any solution , client can give his modification if account are open offline but details if are able to find on neuron"
+https://konnect.knowlarity.com/konnect/api/v1/786824/f64cef90-9b43-4cc4-84ab-ddedf5316532,46,Deeksha,19-06-224,3670379,HXU0177,modification-segment,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/b6f392f2-d483-429d-9809-d886616f17ed,47,Deeksha,19-06-224,3669685,MIU017,order,0,0,0,0,0,0,"how 80% work on f&0 stock, other information are also not proper ,discuss with Lokesh"
+https://konnect.knowlarity.com/konnect/api/v1/786824/543a19a9-d250-4a4e-bec1-19a7f34cd2de,48,Deeksha,19-06-224,3669614,M03855,report,1,2,2,2,2,9,for report always ask to download report from app
+https://konnect.knowlarity.com/konnect/api/v1/786824/e94a912a-d90f-49d5-8dd9-0ef4fee0ee4d,49,Deeksha,19-06-224,3669049,NVA0831,ut,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/95a4d017-384c-4227-bfec-a30577a87dff,50,Deeksha,19-06-224,3668896,NA,others,0,0,0,0,0,0,always call back required on disconnected or blank call
+https://konnect.knowlarity.com/konnect/api/v1/786824/94b725d0-972c-4f99-b283-99ae4d428ea2,51,Deeksha,19-06-224,3668571,L100750,order,0,0,0,0,0,0,"that is ADS margin not payout, discuss with Lokesh"
+https://konnect.knowlarity.com/konnect/api/v1/786824/a35820f3-d4fb-4ea5-8f02-343ccb792055,52,Deeksha,19-06-224,3668289,WYN0037,closure,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/8e01b787-5714-46b4-8970-0f483e3d60b8,53,Deeksha,19-06-224,3667732,K01373,login,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/f7dcdb5d-71c4-4dad-864c-75ed94119746,54,Deeksha,19-06-224,3667394,DFC0073,closure,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/3754722c-f455-4f43-a4a3-9eaea3490402,55,Deeksha,19-06-224,3667222,6376515245,others,0,0,0,0,0,0,always call back required on disconnected or blank call
+https://konnect.knowlarity.com/konnect/api/v1/786824/3ce16ea1-59dd-4317-b979-0d8a74af2444,56,Deeksha,19-06-224,3665457,LXV1759,account query,0,0,0,0,0,0,"this is related to trade confirmation call, discuss with Lokesh"
+https://konnect.knowlarity.com/konnect/api/v1/786824/2494c944-4f6e-4109-b850-fb2ba29926ca,57,Deeksha,19-06-224,3665283,KDK026,account query,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/d59fdc56-71ae-4b8d-9340-3572deb731ee,58,Deeksha,19-06-224,3665108,I22886,payout,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/3846d609-5b95-41c9-812e-7776701827c5,59,Deeksha,19-06-224,3665042,OKB0900,UT,1,1,2,2,2,8,"as per me call was not proper, @Lokesh listen and discuss ( isme hum kya kar skte is like we are responsible for client )"
+https://konnect.knowlarity.com/konnect/api/v1/786824/efb9e23d-282d-42a5-af33-f9831ad69209,60,sadaf,24/06/2024,3690634,GXH0033,brokerage,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/c5af4391-306f-4265-81ae-21cbfaf43234,61,sadaf,24/06/2024,3690740,I03522,report-dp statement,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/b452ec1f-7268-4f99-82dc-a0637639343e,62,sadaf,24/06/2024,3692233,X100044,dp-dematerialised,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/cf5363f8-ddf0-41e0-94a4-cde4cde6b589,63,sadaf,24/06/2024,3692340,R00100,order-stop loss,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/382cad18-1912-4fbf-bee4-adfd7ab1cdf7,64,sadaf,24/06/2024,3692611,N02946,loginguidance,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/1a99dccb-6322-4171-94a2-9d4335185653,65,sadaf,24/06/2024,3693635,CP1667,order,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/69e53f26-a512-449b-b36f-882093600e6a,66,sadaf,24/06/2024,3693752,LOD0529,fund-payout,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/02bf99e4-1d7b-449c-a7fc-3d5a7e9db989,67,sadaf,24/06/2024,3693983,X121931,others-not explained,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/74c8c448-2b2c-434c-b0cd-f91a2d4c87c6,68,sadaf,24/06/2024,3694128,MA19133,ipo,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/513795ba-7263-404c-ad1e-50e87dfad78b,69,sadaf,24/06/2024,3694233,WFR9771,UT,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/796901/0483a400-4c08-4416-9745-92f33f48046e,70,sadaf,24/06/2024,3694500,X02679,holding-average price,0,0,0,0,0,0,"resolution was possible on call, if mail is unattended try to give solution on call"
+https://konnect.knowlarity.com/konnect/api/v1/786824/e97483dd-0239-4e0a-b6c2-938c2d1e118b,71,sadaf,24/06/2024,3694805,X128160,user suspended,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/662b994f-9e1f-403f-8248-1c9b8ce6d69a,72,sadaf,24/06/2024,3695073,WFR9223,UT,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/8777f260-c80f-40eb-83ae-90b0fbaf4b2f,73,sadaf,24/06/2024,3695420,IL10852,order-sell,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/a12e9a7b-3817-4406-b277-3ebf42450d6b,74,sadaf,24/06/2024,3695816,,report,0,0,0,0,0,0,First guide to download from app and back office login
+https://konnect.knowlarity.com/konnect/api/v1/786824/9f9739b1-786c-4761-b69e-6d9c0bb72447,75,sadaf,24/06/2024,3695892,ICQ025,fund-payout,1,2,2,2,2,9,you can ask team why payout not done on time
+https://konnect.knowlarity.com/konnect/api/v1/786824/324c9cb4-e9a7-4f08-a425-0e736fb91c03,76,sadaf,24/06/2024,3697661,"PIS030,PIS057",Nominee details,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/7a0d8446-90ba-4727-bfa9-e61daf51466c,77,Deeksha,25/06/2024,3692359,mmj014,login-pin issue,0,0,0,0,0,0,"why tagging is wrong, we are working in login query improvemement -change tagging & update trouble shoot"
+https://konnect.knowlarity.com/konnect/api/v1/786824/b1c96b90-40e4-4ac5-8c07-02fdbc761bc7,78,Deeksha,25/06/2024,3692770,PXO0028,"payout, brokerage",1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/61c2d06d-fa27-4952-b01c-06a56dd6fea7,79,Deeksha,25/06/2024,3693595,DLN0115,other-account query,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/4f848c85-c4ff-4ddc-9eff-495fe30013f2,80,Deeksha,25/06/2024,3693666,X146728,order,0,0,0,0,0,0,"query not resolved, call was on hold and disconnected"
+https://konnect.knowlarity.com/konnect/api/v1/786824/0134f12f-8295-434b-8b50-88d155e2bb4c,81,Deeksha,25/06/2024,3694339,X06378,order,0,0,0,0,0,0,"LOKESH, please check why call are kept on hold for long time without taking persmission from client"
+https://konnect.knowlarity.com/konnect/api/v1/786824/7025fb0e-c14e-414c-a105-60ee7b8398ea,82,Deeksha,25/06/2024,3694502,ZP100134,closure,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/f6e3d25b-a1df-419c-aded-446427ddd02d,83,Deeksha,25/06/2024,3695083,IFU003,franchise,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/2ddaf169-65e6-4518-a49e-40bd0b8d373a,84,Deeksha,25/06/2024,3695219,QLT2803,fund-payout,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/0fc2aa8c-1cab-43a0-b8e7-f3358e0b074b,85,Deeksha,25/06/2024,3695354,PKX0024,dp-easiest,1,3,2,2,2,10,always take permission before you put call on hold
+https://konnect.knowlarity.com/konnect/api/v1/786824/cce43f9f-9683-46be-adcd-67e06c685e7e,86,Deeksha,25/06/2024,3696137,AJF0005,brokerage,0,0,0,0,0,0,"call is not upto the mark, and why you need to put call on hold eveytime - charges explaine 18% directly is not proper , DISCUSS WITH LOKESH"
+https://konnect.knowlarity.com/konnect/api/v1/786824/d7916d2a-7706-4afc-87d2-6a73cee0fa24,87,Deeksha,25/06/2024,3696514,M01965,login- clear cache,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/0b6c177a-8cd6-4747-b8cf-c266efa2491b,88,Deeksha,25/06/2024,3696645,X011090,mapping,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/4d32b8a1-3edc-4033-b6d7-35046ef2fb8f,89,Deeksha,25/06/2024,3696756,X131766,algo,1,3,2,2,2,0,
+https://konnect.knowlarity.com/konnect/api/v1/786824/44740f31-040b-4a1c-b374-257f9525922e,90,Deeksha,25/06/2024,3697008,M01965,back office login,1,2,2,2,2,9,call and confirm whether proble is resolved or not
+https://konnect.knowlarity.com/konnect/api/v1/786824/6e2331cd-f0be-451c-ae6e-5334c84e97d4,91,Deeksha,25/06/2024,3697355,order,order,0,0,0,0,0,0,"call is not proper, there was only need to infome him yes mxc has been updated o delivery type"
+https://konnect.knowlarity.com/konnect/api/v1/786824/72f2e02b-611c-4d4f-b459-fd1638c7d631,92,Deeksha,25/06/2024,3698223,X128160,modification-bank,1,3,2,2,2,10,call disconnected call back not done
+https://konnect.knowlarity.com/konnect/api/v1/786824/6a7c1361-0827-424a-b5c0-fc8cc267a92e,93,Deeksha,25/06/2024,3698461,KPM0030,closure,1,3,2,2,2,10,do not put call on hold without informing
+https://konnect.knowlarity.com/konnect/api/v1/786824/236fae0f-dd63-432c-b018-2ec27c86ebb5,94,abhishek,26/06/2024,3720756,OF00225,closure,0,0,0,0,0,0,"Client ID confirmed on call was wrong, listen to client properly"
+https://konnect.knowlarity.com/konnect/api/v1/786824/a8cbd913-b28e-4f3a-8545-0fec6fa883ba,95,abhishek,26/06/2024,3720299,NRDA323,DP-charges,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/c7bf38b7-0e74-4158-bd45-f2e08cb5f8d0,96,abhishek,26/06/2024,3719953,INL5421,brokerage,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/89fc5aec-5f34-43ed-923b-44b5a81993e9,97,abhishek,26/06/2024,3719915,N00636,ipo,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/b77acfdf-e9a6-41ec-94f2-e3afadb8feef,98,abhishek,26/06/2024,3719541,LXV0950,modification-segment,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/2d2d81f6-4261-47b1-8e59-ae5e8fd49477,99,abhishek,26/06/2024,3719382,IPY065,modification-contact,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/dd59cd5c-25a6-4b1c-995f-ee213b6af20d,100,abhishek,26/06/2024,3719246,BOE0184,fund settlement,0,0,0,0,0,0,"not listening to client properly & not able to explain , cleint is very much polite on call but you are raising your voice in between of call (VERY BAD CALL)"
+https://konnect.knowlarity.com/konnect/api/v1/786824/cae34c52-4d58-49d5-a278-bafad5169527,101,abhishek,26/06/2024,3717655,IVK641,order,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/95335a44-15c8-4433-b7eb-a4a7bd819dd8,102,abhishek,28/06/2024,3739867,Branch person,mapping,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/796901/5b8cb638-a516-4c12-8d29-afc299d656ca,103,abhishek,28/06/2024,3739545,HLB011,login issue,0,0,0,0,0,0,"1-query not resolved, call back not done 2- tagging wrong"
+https://konnect.knowlarity.com/konnect/api/v1/796901/f287abd1-7150-45cb-985f-abadedcb7ccb,104,abhishek,28/06/2024,3745569,HLB011,login issue,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/5ce1cf07-28ad-4170-a094-5a957cedc8f3,105,abhishek,28/06/2024,3739157,9637648986,other-account query,0,0,0,0,0,0,1- it is not t+5 days for ageing debit- it should be settlement+5 days 2-here client wanted to that do we need maintain minimum margin for buying 3-voice raised while talking to client - behaviour on call was not polite
+https://konnect.knowlarity.com/konnect/api/v1/786824/1ece7491-5faa-442f-b1c1-0d454c319178,106,abhishek,28/06/2024,3739094,PIK0052,report,1,3,2,1,1,8,
+https://konnect.knowlarity.com/konnect/api/v1/786824/61c8f097-9225-4823-81e6-a64ba2f370db,107,abhishek,28/06/2024,3739042,SEW0076,UT,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/d5cb6618-dbac-4e8c-9303-9bcdbd40521f,108,abhishek,28/06/2024,3738951,QCK2107,UT,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/037c2948-4e52-4f8a-b8cc-3b8de9d2d603,109,abhishek,28/06/2024,3736662,MEJ108,charges,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/151dbdd4-fddf-405a-949f-81a816d03a6f,110,abhishek,28/06/2024,3736166,KBF3685,order,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/4b294af2-1be1-4183-afde-d1a792f54d34,111,abhishek,28/06/2024,3735879,OWV0047,fund payout,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/cf44168b-c73e-41bb-b191-e8fb4aa63c29,112,abhishek,28/06/2024,3735689,8562018492,account query,0,0,0,0,0,0,"that is not gift share to inform to client , it is approved stock on which client have given confirmation"
+https://konnect.knowlarity.com/konnect/api/v1/786824/663f9a06-5eb0-4a66-9c1d-21362be4214f,113,abhishek,28/06/2024,3735458,9998001238,new lead,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/556ecdf5-8b73-4ae7-aac4-368c19346bdf,114,Deeksha,29/06/2024,3742977,HVO3001,order,1,3,2,2,2,10,Use professional way on call- error kya de raha tha should not be your sentence ( you can ask error kya aa raha tha/ kya show kar raha tha ) like this
+https://konnect.knowlarity.com/konnect/api/v1/786824/3979b0c2-95b3-4377-aac9-f7f2bdc6020c,115,Deeksha,29/06/2024,3743601,HJE0163,mapping,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/2b2719b9-9a98-4c04-80f1-2a97c917ad84,116,Deeksha,29/06/2024,3744483,OKB0644,closure,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/5ee84bf6-92a1-44d6-9c5a-1f33bcd3314a,117,Deeksha,29/06/2024,3746855,na,franchise,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/4c9595dd-347f-4922-b052-f07d53c522d4,118,Deeksha,29/06/2024,3747220,J600360,account query,1,3,2,2,2,10,she just wanted to know about her RM details
+https://konnect.knowlarity.com/konnect/api/v1/786824/e73a02d9-de53-4fbf-a2a3-9ae09e0e93bb,119,Deeksha,29/06/2024,3747372,ypf0004,login,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/fb6bdf00-a7f2-41c6-a5c0-0b41adfda6d2,120,Deeksha,29/06/2024,3747535,YZO0046,order,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/eeb43ec2-f89c-474f-b5cc-6aef505a9560,121,Deeksha,29/06/2024,3748608,WFR9760,closure-retained,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/dbf8fc84-e05e-4cd8-856c-f26e8a2743c5,122,Deeksha,29/06/2024,3748751,X023811,refer and earn,0,0,0,0,0,0,understand referral policy from app or lokesh - you can not take payout of tha
+https://konnect.knowlarity.com/konnect/api/v1/786824/32aef9b3-206c-4eed-a833-b733fa0b00d2,123,Deeksha,29/06/2024,3750086,A301060,brokerage,1,3,2,1,2,9,
+https://konnect.knowlarity.com/konnect/api/v1/786824/49b34ea9-e199-4438-8d88-64991de43b7a,124,Deeksha,29/06/2024,3751127,VJD0130,closure,1,3,2,1,2,9,always make call back
+https://konnect.knowlarity.com/konnect/api/v1/786824/4b692b17-9293-419c-bfc9-a677666e9fee,125,Deeksha,29/06/2024,3751149,VJD0130,closure,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/9c0a5ed3-ab26-4d32-9f0e-a654af57965c,126,Deeksha,29/06/2024,3751168,QHQ5805,brokerage,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/3b57c499-6e42-4feb-821f-553b7d78bad9,127,Deeksha,29/06/2024,3751186,franchise,,3,2,2,2,,9,
+https://konnect.knowlarity.com/konnect/api/v1/786824/b2b0a045-0883-4b5e-8ebe-7a56e6b8cedc,128,Deeksha,29/06/2024,3740309,8000257172,odin,0,0,0,0,0,0,"for this client can connect to IT, discuss this with LOKESH"
+https://konnect.knowlarity.com/konnect/api/v1/786824/487454e3-229c-401b-b24b-223f24522c18,129,Deeksha,29/06/2024,3740260,m05568,report,0,0,0,0,0,0,did not asked to download from app
+https://konnect.knowlarity.com/konnect/api/v1/786824/35fdb79b-eb42-4c22-b637-b195b4bf64ea,130,Manisha,01/07/2024,3748920,LFPPS8569M,onboarding,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/aaace5b6-b021-4686-8db9-bcf7d5963fe3,131,Manisha,01/07/2024,3748903,MZH1930,closure,0,0,0,0,0,0,"There was zero Empathy on call, no pilteness while talking to client"
+https://konnect.knowlarity.com/konnect/api/v1/786824/b739fd78-1323-4a05-85f6-94c40e7f1f99,132,Manisha,01/07/2024,3748801,X182210,login suspended,0,0,0,0,0,0,"I did not find any call back which you had committed to client, call kept on hold for long time also do not inform department name to client where you have escalated , always use concern department"
+https://konnect.knowlarity.com/konnect/api/v1/786824/70e832f6-d6b7-4abf-9d44-1606da3a0884,133,Manisha,01/07/2024,3748110,RBG007,missing aver ptice,0,0,0,0,0,0,"call is giving information about his holding instead this you have to check it at our end, language switch even client id speaking in english, need more improvement"
+https://konnect.knowlarity.com/konnect/api/v1/786824/13810ee6-d9fd-4423-8f99-ee6725f9b6a9,134,Manisha,01/07/2024,3747637,9582936893,brokerage,0,0,0,0,0,0,"language switch even client id speaking in english, call is still open not resolved"
+https://konnect.knowlarity.com/konnect/api/v1/786824/8394de0b-567a-4d0c-8d4e-0d83f6f9e184,135,Manisha,01/07/2024,3747591,7039587697,account query,0,0,0,0,0,0,"no proper information given on call, also wrong information given ( limit on app cab be checked in off market also ), ticket not closed"
+https://konnect.knowlarity.com/konnect/api/v1/786824/cc16c77c-157d-4a38-8d37-2b68e2df57c4,136,Manisha,01/07/2024,3744410,ZMJ0027,mtf,0,0,0,0,0,0,did not resolved no call back found
+https://konnect.knowlarity.com/konnect/api/v1/786824/13810ee6-d9fd-4423-8f99-ee6725f9b6a9,137,Manisha,01/07/2024,3747637,9582936893,brokerage,0,0,0,0,0,0,"this is not the way of informing brokerage charges unless and untill client is saying roerage is high, you should inform client you get premium services from franchise that’s why it is high still you want you can talk to your franchise person, call is not close"
+https://konnect.knowlarity.com/konnect/api/v1/786824/08e5e436-2f81-48a7-b26a-bc2f05ab016f,138,Manisha,01/07/2024,3743183,franchise,onboarding,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/2c764572-174e-4982-bbb8-8adfb086dd5a,139,Manisha,01/07/2024,3742939,RPM0320,mapping,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/f6e99f29-466e-4a9e-a18c-a5a241cba716,140,Manisha,01/07/2024,3742873,AOJPT5567L,onboarding,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/22c05fa4-3930-4f18-9824-8bda07eb1182,141,Manisha,01/07/2024,3742840,D00323,closure,1,3,2,2,2,10,
+https://konnect.knowlarity.com/konnect/api/v1/786824/c7c46a45-4fe7-4cfc-b4b8-68c2c6264db1,142,Manisha,01/07/2024,3742697,ABA030,other-account uery,,,,,,0,
