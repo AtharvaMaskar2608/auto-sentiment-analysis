@@ -34,5 +34,6 @@ def generate_transcripts(audio_file_path: str) -> List[Dict[str, str]]:
         return transcript.utterances
 
     except Exception as e:
+        print(audio_file_path)
         print("Problem transcribing audio: ", e)
         pass
