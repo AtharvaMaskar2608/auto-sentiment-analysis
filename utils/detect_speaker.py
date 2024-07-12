@@ -23,20 +23,24 @@ def preprocess_speaker_transcript(transcript: str, agentName: str) -> str:
 
     user_prompt = f"For the given transcript: {transcript}, return `Speaker A` if you think Speaker A is the agent and Speaker B is the customer. Return `Speaker B` if you think speaker B is the agent and the Speaker A is the customer."
 
-    completion = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt}
-        ]
-    )
+    try:
+        completion = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ]
+        )
 
-    if completion.choices[0].message.content == "Speaker A":
-        processed_transcripts = pre_process_text(transcript=transcript, agentName=agentName, agentTag="Speaker A", customerTag="Speaker B")
-    elif completion.choices[0].message.content == "Speaker B":
-        processed_transcripts = pre_process_text(transcript=transcript, agentName=agentName, agentTag="Speaker B", customerTag="Speaker A")
+        if completion.choices[0].message.content == "Speaker A":
+            processed_transcripts = pre_process_text(transcript=transcript, agentName=agentName, agentTag="Speaker A", customerTag="Speaker B")
+        elif completion.choices[0].message.content == "Speaker B":
+            processed_transcripts = pre_process_text(transcript=transcript, agentName=agentName, agentTag="Speaker B", customerTag="Speaker A")
 
-    return processed_transcripts         
+        return processed_transcripts         
+    except Exception as e:
+        print("Error preprocessing transcript, ", e)
+        pass
 
 def pre_process_text(transcript: str, agentName: str, agentTag: str, customerTag: str)  -> str:
     """

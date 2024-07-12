@@ -1,0 +1,66 @@
+[
+    {
+        "queryName": "Closure",
+        "queryDescription": "If the client/customer has any queries or situation related account closure."
+    },
+    {
+        "queryName": "Funds",
+        "queryDescription": "If the client/customer's query pertains to various financial inquiries related to client transactions and account activities. It includes issues such as delayed updates of pay-ins, discrepancies in stock sale fund transfers due to POA status, inquiries about auto monthly and quarterly payouts, general questions about pay-in and payout processes, requests for payout cancellations, limitations on simultaneous pay-in and payout transactions, early fund access before settlement, and verification of funds from non-registered bank accounts for possible refunds or account updates."
+    },
+    {
+        "queryName": "Modification",
+        "queryDescription": "This query involves various client requests for account and profile modifications. It includes requests such as address, bank details, and contact information updates, guiding clients through app or alternative methods if needed. It also covers activations like DDPI/POA and MTF facilities, modifications to client names or nominee additions, reactivation of inactive accounts, and segment activations or deactivations. Additionally, it addresses inquiries about the status of previously requested modifications."
+    },
+    {
+        "queryName": "Orders",
+        "queryDescription": "This query encompasses various client inquiries and actions related to trading orders and market operations. It includes placing after-market orders, utilizing basket order facilities for investing in specific baskets like pharma or IT sectors, and bracket orders for intraday trades with price, target, and stop-loss parameters. Clients can inquire about the status and processes of buy, delivery buy, intraday, limit, market, GTD (Good 'Til Date), GTC (Good 'Til Cancelled), and GTT (Good 'Til Triggered) orders. They can also seek information on placing and managing stop-loss orders, using TPIN (Telephone Personal Identification Number) for EDIS (Electronic Deposit and Information System) facilities, and handling trade rejections or queries during live market sessions."
+    },
+    {
+        "queryName": "Brokerage",
+        "queryDescription": "This query involves requests and inquiries related to brokerage modifications from various stakeholders. It includes requests from RM/Branch personnel, clients seeking to modify or inquire about their brokerage details, and franchisee personnel requesting brokerage adjustments. Additionally, it covers notifications to clients regarding any changes made to their brokerage settings."
+    },
+    {
+        "queryName": "Charges",
+        "queryDescription": "The query encompasses various client inquiries related to financial transactions and penalties. Clients may request to reverse their Annual Maintenance Charges (AMC) when closing their account without using their demat account for stock holdings, and inquire about charges applied to approved stocks. They also seek information on charges due to late payment of debit amounts on their ledger, government taxes or other charges apart from brokerage fees, updates on debit holds in their accounts occurring in the first week of each month, and details regarding short penalties applied due to margin shortfalls."
+    },
+    {
+        "queryName": "Account Opening",
+        "queryDescription": "If the client/customer has any queries or situation related to opening his account."
+    },
+    {
+        "queryName": "Account Related",
+        "queryDescription": "If the client/customer has any queries or situation related to details or deleting his account or updates regarding the onboarding status."
+    },
+    {
+        "queryName": "Application related",
+        "queryDescription": "This query addresses diverse technical and functional issues reported by clients using the application. It includes requests for Algo trading API activation links, reports of technical glitches causing application disruptions, inquiries about various features like order types (day, limit, market), GTT, watchlists, basket orders, and fund management. Clients also complain about slow application performance, chart malfunctions, network issues specific to the application despite general mobile functionality, price display errors on holding pages or watchlists, and queries regarding the web login feature's functionalities. This query covers a broad spectrum of client concerns related to application usability and performance, necessitating troubleshooting and support from customer service."
+    },
+    {
+        "queryName": "Back Office",
+        "queryDescription": "If the client/customer has any queries or situation related to the OTP SMS."
+    },
+    {
+        "queryName": "Corporate action",
+        "queryDescription": "This query encompasses various client inquiries related to significant corporate events affecting their investments. Clients seek information about bonus issues, buybacks, mergers/demergers, dividends, rights issues, and stock splits impacting their accounts. They inquire about the implications of these actions on their holdings, adjustments in share quantities, and details about offers such as buybacks and rights issues. This query category addresses diverse client needs for understanding and managing their investments amidst corporate restructuring and dividend distributions, necessitating clear explanations and support from customer service."
+    },
+    {
+        "queryName": "Unauthorized Trade",
+        "queryDescription": "If the client/customer has any queries or complaints regarding unauthorized trading activities or significant financial losses."
+    },
+    {
+        "queryName": "Buy", 
+            "queryDescription": "The query covers any problems encountered by clients during trading activities. These categories include errors like server blocks administered by the admin, suspension of scripts at the time of purchase, and attempts to buy periodic scripts outside permissible trading windows. Other rejection scenarios entail issues such as CRP not being set for intraday trades, KYC-related problems such as unapproved codes or verification failures, restrictions on fresh buy orders, and instances where margin limits are exceeded. Additional cases encompass rejections due to attempting trades on expiry dates, selecting incorrect circuit ranges, or placing orders outside specified trading hours."
+    },
+    {
+        "queryName": "DP", 
+        "queryDescription": "This query category encompasses a diverse array of client inquiries related to financial processes and procedural details. Clients seek clarification on various aspects such as understanding different Annual Maintenance Charge (AMC) plans available to them, the auction process for stocks triggered by circuit breakers or excessive selling in their accounts, the simplest method for online stock transfers, and details about DP charges including pledges, unpledges, and charges for selling DP stocks. Additionally, clients inquire about dematerializing physical stocks into electronic form, checking the status of their DIS book or requesting a copy, understanding Margin Trading Facility (MTF) funding, comprehending the process of pledging stocks, purchasing bonds through applications, transferring stocks in transmission cases, and the process of unpledging stocks. These inquiries highlight the complexity of financial procedures clients encounter, necessitating clear explanations and guidance from customer service to facilitate informed decision-making and account management."
+    },  
+    {
+        "queryName": "Research",
+        "queryDescription": "If the client/customer has any queries regarding the research or trading strategies."
+    },
+    {
+        "queryName": "Reports",
+        "queryDescription": "The client's requests during calls often revolve around various types of financial reports and statements related to their investments or transactions. When a client requests a brokerage report, CML report, contract note, delayed payment charges report, dividend/STT report, DP statement, global report, holding report, ITR reports, ledger report, P&L report, or PAY IN/PAY OUT report, our standard response is to recommend downloading the report from our mobile application. If downloading from the app isn't feasible, we advise clients to email their request from their registered email ID to ensure secure and prompt delivery. This approach ensures that clients have convenient access to essential financial information while maintaining security and compliance with our service protocols."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "queryName": "Closure",
+        "queryDescription": "If the client/customer has any queries or situation related account closure."
+    },
+    {
+        "queryName": "Funds",
+        "queryDescription": "If the client/customer has any queries or situation related to the funds in his account."
+    },
+    {
+        "queryName": "Modification",
+        "queryDescription": "If the client/customer has any queries or situation related to modifying/changing/updating/activating details like name, address, etc. or a particular facility on his account. Or if the customer wants to add nominee to his account."
+    },
+    {
+        "queryName": "Orders",
+        "queryDescription": "If the client/customer has any queries or situation related to stock order placed on the platform like order buy, delivery, intraday, limit, sell, stop loss, trade details, margin, etc."
+    },
+    {
+        "queryName": "Brokerage",
+        "queryDescription": "If the client/customer has any queries or situation related to the brokerage or wants to modify brokerage details."
+    },
+    {
+        "queryName": "Charges",
+        "queryDescription": "If the client/customer has any queries or situation related to charges applied."
+    },
+    {
+        "queryName": "Account Opening",
+        "queryDescription": "If the client/customer has any queries or situation related to opening his account."
+    },
+    {
+        "queryName": "Account Related",
+        "queryDescription": "If the client/customer has any queries or situation related to details or deleting his account or updates regarding the onboarding status."
+    },
+    {
+        "queryName": "Application related",
+        "queryDescription": "If the client/customer has any queries or situation related to mobile/web application of the platform."
+    },
+    {
+        "queryName": "Back Office",
+        "queryDescription": "If the client/customer has any queries or situation related to the OTP SMS."
+    },
+    {
+        "queryName": "Corporate action",
+        "queryDescription": "If the client/customer has any queries or situation related to corporate actions like Bonus, buy back, Demerger/merger, Dividend, Right issue, etc."
+    },
+    {
+        "queryName": "Unauthorized Trade",
+        "queryDescription": "If the client/customer has any queries or complaints regarding unauthorized trading activities or significant financial losses."
+    },
+    {
+        "queryName": "Research",
+        "queryDescription": "If the client/customer has any queries regarding the research or trading strategies."
+    },
+    {
+        "queryName": "Reports",
+        "queryDescription": "If the client/customer has any queries or situation regarding reports."
+    }
+]

@@ -118,7 +118,7 @@ def check_empathy(transcript: str, summary:str) -> int:
     Only follow the above crieterias. Just return the rating between 0 to 2, without any other text
     """
 
-    user_prompt = f"Transcript:{transcript}\n Summary: {summary}, check how empathetic the agent was towards the client on a scale of 0 to 2"
+    user_prompt = f"Transcript:{transcript}\n Summary: {summary}, check how empathetic the agent was towards the client. And only return a rating between 0 and 2 without any extra text."
 
 
     completion = client.chat.completions.create(
